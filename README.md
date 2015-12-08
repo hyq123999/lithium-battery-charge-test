@@ -7,6 +7,8 @@ Program wakes every 3 minutes and reports to thingspeak then goes back to deep s
 
 Used voltage divider as in Adafruit tutorial. Measured resistors with meter and they were surprisingly close to nominal values (todo: add circuit) so 100% on chart s/b close to 3.7V.
 
-![Voltage chart](batt-cycle.png) - started with topping off then removed power while measuring. It ran till it died.
+Started with topping off then removed power while measuring. It ran till it died.
+
+![Voltage chart](batt-cycle.png)
 
 Curious how low th voltage can get for the Feather ESP. It reported for quite a while before failing to wake.
