@@ -11,4 +11,4 @@ Started with topping off then removed power while measuring. It ran till it died
 
 ![Voltage chart](batt-cycle.png)
 
-Curious how low th voltage can get for the Feather ESP. It reported for quite a while before failing to wake.
+Curious how low the voltage can get for the Feather ESP. It reported for quite a while before failing to wake.
